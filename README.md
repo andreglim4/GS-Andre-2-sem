@@ -1,7 +1,7 @@
 # GS: SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS - 2°semestre - 1CCPG  
-André Ayello de Nobrega: rm561754
-André Gouveia de Lima: rm564219
-Mirella Mascarenhas: rm562092
+André Ayello de Nobrega: rm561754.
+André Gouveia de Lima: rm564219.
+Mirella Mascarenhas: rm562092.
 
 # SmartOffice - Gestão Inteligente de Energia
 
