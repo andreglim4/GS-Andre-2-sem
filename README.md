@@ -47,17 +47,16 @@ Esta solução contribui para o futuro do trabalho ao criar ambientes:
 
 /Global-Solution-SmartOffice
 |
-├── README.md             (Este arquivo)
-|
-├── /dados/
-|   └── dados_consumo_escritorio.csv  (Dados simulados)
-|
-├── /codigo/
-|   ├── gerador_dados.py
-|   └── simulador_iot_automacao.py
-|
-└── /analise/
-    ├── analise_energia.py
-    ├── grafico_consumo_dispositivo.png (Resultado da análise)
-    ├── grafico_consumo_hora.png        (Resultado da análise)
-    └── grafico_consumo_fds.png         (Resultado da análise)
+README.md             (Este arquivo)
+    (dados)
+    dados_consumo_escritorio.csv  (Dados simulados)
+
+    (codigo)
+    Gerador_dados.py
+    simulador_iot_automacao.py
+
+    (analise)
+    analise_energia.py
+    grafico_consumo_dispositivo.png (Resultado da análise)
+    grafico_consumo_hora.png        (Resultado da análise)
+    grafico_consumo_fds.png         (Resultado da análise)
