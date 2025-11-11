@@ -43,31 +43,6 @@ Esta solução contribui para o futuro do trabalho ao criar ambientes:
 * **Inteligentes e Responsivos:** O ambiente de trabalho se adapta ao uso real, desligando sistemas em salas vazias e otimizando o conforto apenas quando necessário.
 * **Baseado em Dados:** A gestão do escritório passa a ser orientada por dados (Data-Driven), permitindo melhor alocação de recursos.
 
-## Como Executar o Projeto
-
-1.  **Pré-requisitos:**
-    * Python 3.x
-    * Bibliotecas: `pandas`, `numpy`, `matplotlib`, `seaborn`
-    * Execute: `pip install pandas numpy matplotlib seaborn`
-
-2.  **Gerar os Dados de Consumo:**
-    * (Opcional: O arquivo `dados_consumo_escritorio.csv` já está na pasta `/dados/`. Para gerá-lo novamente, execute:)
-    ```bash
-    python codigo/gerador_dados.py
-    ```
-
-3.  **Executar a Análise de Dados:**
-    * (Este script irá ler o CSV e gerar os 3 gráficos PNG na pasta `/analise/`.)
-    ```bash
-    python analise/analise_energia.py
-    ```
-
-4.  **Ver a Simulação da Automação IoT:**
-    * (Este script simula a lógica de automação sendo aplicada a dados de sensores em "tempo real".)
-    ```bash
-    python codigo/simulador_iot_automacao.py
-    ```
-
 ## Estrutura do Repositório
 
 /Global-Solution-SmartOffice
