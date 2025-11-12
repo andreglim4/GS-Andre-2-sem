@@ -16,7 +16,6 @@ Analisar dados simulados de consumo de energia de um escritório comercial para 
 Nossa solução combina Análise de Dados (Opção A) com a simulação de um Dispositivo IoT (Opção B).
 
 1.  **Análise de Dados (A):** Utilizamos um dataset simulado (localizado em `/dados/`) para identificar padrões de consumo. A análise (ver `/analise/`) revelou um grande desperdício de energia com Ar Condicionado nos fins de semana, quando o escritório está vazio.
-2.  **Solução IoT (B):** Propomos um sistema de automação (simulado em `/codigo/simulador_iot_automacao.py`) que integra sensores (presença, horário) para desligar dispositivos automaticamente, corrigindo o desperdício encontrado na análise.
 
 ### Resultados da Análise
 
