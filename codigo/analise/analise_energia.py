@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Carregar os dados
-df = pd.read_csv('dados_consumo_escritorio.csv')
+df = pd.read_csv('dados_consumo_escritorio_60dias.csv')
 df['timestamp'] = pd.to_datetime(df['timestamp'])
 df['hora'] = df['timestamp'].dt.hour
 df['dia_semana'] = df['timestamp'].dt.day_name()
@@ -66,3 +66,4 @@ df.groupby('fim_de_semana')['consumo_kWh'].sum().plot(
 plt.savefig('grafico_consumo_fds.png')
 
 print(f"\nAnálise concluída. Gráficos salvos em PNG.")
+
