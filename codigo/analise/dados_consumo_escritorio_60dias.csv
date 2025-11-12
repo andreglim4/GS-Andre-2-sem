@@ -1,0 +1,721 @@
+timestamp,dispositivo,area,consumo_kWh
+2025-09-01 08:00:00,Geladeira,Copa,0.125
+2025-09-01 09:00:00,Ar Condicionado,Sala de Reunião,3.482
+2025-09-01 10:00:00,Iluminação,Escritório Aberto,0.356
+2025-09-01 11:00:00,Ar Condicionado,Sala de Reunião,2.892
+2025-09-01 12:00:00,Impressora,Sala de Reunião,0.075
+2025-09-01 13:00:00,Ar Condicionado,Escritório Aberto,4.034
+2025-09-01 14:00:00,Iluminação,Sala de Reunião,0.367
+2025-09-01 15:00:00,Impressora,Sala de Reunião,0.301
+2025-09-01 16:00:00,Micro-ondas,Copa,0.242
+2025-09-01 17:00:00,Computadores,Escritório Aberto,0.333
+2025-09-01 18:00:00,Servidor,TI/Servidor,1.043
+2025-09-01 19:00:00,Iluminação,Sala de Reunião,0.284
+2025-09-02 08:00:00,Servidor,TI/Servidor,1.146
+2025-09-02 09:00:00,Iluminação,Escritório Aberto,0.202
+2025-09-02 10:00:00,Micro-ondas,Copa,0.443
+2025-09-02 11:00:00,Computadores,Escritório Aberto,0.442
+2025-09-02 12:00:00,Computadores,Escritório Aberto,0.585
+2025-09-02 13:00:00,Ar Condicionado,Escritório Aberto,2.022
+2025-09-02 14:00:00,Ar Condicionado,Recepção,2.789
+2025-09-02 15:00:00,Ar Condicionado,Escritório Aberto,2.927
+2025-09-02 16:00:00,Geladeira,Copa,0.088
+2025-09-02 17:00:00,Servidor,TI/Servidor,1.559
+2025-09-02 18:00:00,Computadores,Escritório Aberto,0.685
+2025-09-02 19:00:00,Iluminação,Escritório Aberto,0.383
+2025-09-03 08:00:00,Iluminação,Sala de Reunião,0.207
+2025-09-03 09:00:00,Cafeteira,Copa,0.173
+2025-09-03 10:00:00,Servidor,TI/Servidor,1.152
+2025-09-03 11:00:00,Computadores,Escritório Aberto,0.365
+2025-09-03 12:00:00,Servidor,TI/Servidor,0.828
+2025-09-03 13:00:00,Ar Condicionado,Escritório Aberto,3.814
+2025-09-03 14:00:00,Geladeira,Copa,0.16
+2025-09-03 15:00:00,Micro-ondas,Copa,0.498
+2025-09-03 16:00:00,Ar Condicionado,Sala de Reunião,2.777
+2025-09-03 17:00:00,Computadores,Escritório Aberto,0.686
+2025-09-03 18:00:00,Computadores,Escritório Aberto,0.599
+2025-09-03 19:00:00,Geladeira,Copa,0.193
+2025-09-04 08:00:00,Geladeira,Copa,0.187
+2025-09-04 09:00:00,Impressora,Sala de Reunião,0.215
+2025-09-04 10:00:00,Servidor,TI/Servidor,0.871
+2025-09-04 11:00:00,Micro-ondas,Copa,0.219
+2025-09-04 12:00:00,Ar Condicionado,Escritório Aberto,2.311
+2025-09-04 13:00:00,Iluminação,Escritório Aberto,0.253
+2025-09-04 14:00:00,Cafeteira,Copa,0.223
+2025-09-04 15:00:00,Iluminação,Sala de Reunião,0.317
+2025-09-04 16:00:00,Computadores,Recepção,0.655
+2025-09-04 17:00:00,Computadores,Escritório Aberto,0.694
+2025-09-04 18:00:00,Iluminação,Escritório Aberto,0.37
+2025-09-04 19:00:00,Servidor,TI/Servidor,0.959
+2025-09-05 08:00:00,Geladeira,Copa,0.081
+2025-09-05 09:00:00,Impressora,Sala de Reunião,0.252
+2025-09-05 10:00:00,Computadores,Escritório Aberto,0.578
+2025-09-05 11:00:00,Cafeteira,Copa,0.209
+2025-09-05 12:00:00,Ar Condicionado,Escritório Aberto,2.235
+2025-09-05 13:00:00,Ar Condicionado,Sala de Reunião,4.047
+2025-09-05 14:00:00,Servidor,TI/Servidor,1.065
+2025-09-05 15:00:00,Computadores,Escritório Aberto,0.319
+2025-09-05 16:00:00,Computadores,Recepção,0.503
+2025-09-05 17:00:00,Computadores,Recepção,0.537
+2025-09-05 18:00:00,Servidor,TI/Servidor,1.51
+2025-09-05 19:00:00,Iluminação,Sala de Reunião,0.265
+2025-09-06 08:00:00,Ar Condicionado,Escritório Aberto,1.487
+2025-09-06 09:00:00,Servidor,Copa,1.371
+2025-09-06 10:00:00,Ar Condicionado,Escritório Aberto,3.026
+2025-09-06 11:00:00,Ar Condicionado,Escritório Aberto,3.264
+2025-09-06 12:00:00,Ar Condicionado,Escritório Aberto,2.878
+2025-09-06 13:00:00,Ar Condicionado,Escritório Aberto,2.354
+2025-09-06 14:00:00,Iluminação,TI/Servidor,0.146
+2025-09-06 15:00:00,Geladeira,Copa,0.156
+2025-09-06 16:00:00,Iluminação,TI/Servidor,0.253
+2025-09-06 17:00:00,Iluminação,Copa,0.418
+2025-09-06 18:00:00,Ar Condicionado,Escritório Aberto,1.798
+2025-09-06 19:00:00,Ar Condicionado,Escritório Aberto,2.185
+2025-09-07 08:00:00,Ar Condicionado,Escritório Aberto,3.013
+2025-09-07 09:00:00,Iluminação,Recepção,0.18
+2025-09-07 10:00:00,Servidor,Recepção,0.862
+2025-09-07 11:00:00,Ar Condicionado,Escritório Aberto,2.082
+2025-09-07 12:00:00,Ar Condicionado,Escritório Aberto,4.435
+2025-09-07 13:00:00,Servidor,Recepção,1.307
+2025-09-07 14:00:00,Ar Condicionado,Escritório Aberto,4.25
+2025-09-07 15:00:00,Geladeira,Recepção,0.102
+2025-09-07 16:00:00,Geladeira,Copa,0.187
+2025-09-07 17:00:00,Geladeira,Copa,0.145
+2025-09-07 18:00:00,Iluminação,Recepção,0.383
+2025-09-07 19:00:00,Ar Condicionado,Escritório Aberto,3.351
+2025-09-08 08:00:00,Geladeira,Copa,0.118
+2025-09-08 09:00:00,Computadores,Escritório Aberto,0.3
+2025-09-08 10:00:00,Computadores,Sala de Reunião,0.353
+2025-09-08 11:00:00,Iluminação,Escritório Aberto,0.323
+2025-09-08 12:00:00,Cafeteira,Copa,0.326
+2025-09-08 13:00:00,Computadores,Escritório Aberto,0.564
+2025-09-08 14:00:00,Ar Condicionado,Escritório Aberto,1.882
+2025-09-08 15:00:00,Iluminação,Escritório Aberto,0.291
+2025-09-08 16:00:00,Iluminação,Escritório Aberto,0.257
+2025-09-08 17:00:00,Ar Condicionado,Sala de Reunião,2.887
+2025-09-08 18:00:00,Iluminação,Recepção,0.227
+2025-09-08 19:00:00,Servidor,TI/Servidor,1.577
+2025-09-09 08:00:00,Iluminação,Escritório Aberto,0.437
+2025-09-09 09:00:00,Iluminação,Escritório Aberto,0.188
+2025-09-09 10:00:00,Computadores,Sala de Reunião,0.474
+2025-09-09 11:00:00,Servidor,TI/Servidor,1.041
+2025-09-09 12:00:00,Impressora,Sala de Reunião,0.065
+2025-09-09 13:00:00,Computadores,Escritório Aberto,0.63
+2025-09-09 14:00:00,Ar Condicionado,Sala de Reunião,1.5
+2025-09-09 15:00:00,Computadores,Escritório Aberto,0.739
+2025-09-09 16:00:00,Servidor,TI/Servidor,0.916
+2025-09-09 17:00:00,Ar Condicionado,Sala de Reunião,2.375
+2025-09-09 18:00:00,Geladeira,Copa,0.198
+2025-09-09 19:00:00,Iluminação,Escritório Aberto,0.185
+2025-09-10 08:00:00,Servidor,TI/Servidor,1.338
+2025-09-10 09:00:00,Servidor,TI/Servidor,1.409
+2025-09-10 10:00:00,Ar Condicionado,Escritório Aberto,1.77
+2025-09-10 11:00:00,Computadores,Escritório Aberto,0.67
+2025-09-10 12:00:00,Iluminação,Escritório Aberto,0.398
+2025-09-10 13:00:00,Servidor,TI/Servidor,1.229
+2025-09-10 14:00:00,Ar Condicionado,Sala de Reunião,1.843
+2025-09-10 15:00:00,Servidor,TI/Servidor,1.057
+2025-09-10 16:00:00,Ar Condicionado,Sala de Reunião,1.75
+2025-09-10 17:00:00,Impressora,Sala de Reunião,0.135
+2025-09-10 18:00:00,Ar Condicionado,Sala de Reunião,1.24
+2025-09-10 19:00:00,Iluminação,Escritório Aberto,0.279
+2025-09-11 08:00:00,Servidor,TI/Servidor,0.981
+2025-09-11 09:00:00,Computadores,Recepção,0.54
+2025-09-11 10:00:00,Projetor,Sala de Reunião,0.17
+2025-09-11 11:00:00,Ar Condicionado,Escritório Aberto,2.833
+2025-09-11 12:00:00,Projetor,Sala de Reunião,0.205
+2025-09-11 13:00:00,Iluminação,Sala de Reunião,0.185
+2025-09-11 14:00:00,Micro-ondas,Copa,0.905
+2025-09-11 15:00:00,Geladeira,Copa,0.159
+2025-09-11 16:00:00,Computadores,Escritório Aberto,0.752
+2025-09-11 17:00:00,Iluminação,Escritório Aberto,0.285
+2025-09-11 18:00:00,Micro-ondas,Copa,0.247
+2025-09-11 19:00:00,Servidor,TI/Servidor,1.518
+2025-09-12 08:00:00,Iluminação,Escritório Aberto,0.415
+2025-09-12 09:00:00,Computadores,Recepção,0.535
+2025-09-12 10:00:00,Computadores,Escritório Aberto,0.403
+2025-09-12 11:00:00,Computadores,Recepção,0.516
+2025-09-12 12:00:00,Ar Condicionado,Escritório Aberto,4.413
+2025-09-12 13:00:00,Servidor,TI/Servidor,1.424
+2025-09-12 14:00:00,Computadores,Recepção,0.579
+2025-09-12 15:00:00,Impressora,Sala de Reunião,0.104
+2025-09-12 16:00:00,Ar Condicionado,Escritório Aberto,2.796
+2025-09-12 17:00:00,Geladeira,Copa,0.092
+2025-09-12 18:00:00,Impressora,Sala de Reunião,0.11
+2025-09-12 19:00:00,Servidor,TI/Servidor,0.929
+2025-09-13 08:00:00,Ar Condicionado,Escritório Aberto,2.517
+2025-09-13 09:00:00,Geladeira,TI/Servidor,0.163
+2025-09-13 10:00:00,Ar Condicionado,Escritório Aberto,2.765
+2025-09-13 11:00:00,Servidor,TI/Servidor,0.979
+2025-09-13 12:00:00,Ar Condicionado,Escritório Aberto,3.262
+2025-09-13 13:00:00,Geladeira,Recepção,0.119
+2025-09-13 14:00:00,Iluminação,Recepção,0.45
+2025-09-13 15:00:00,Ar Condicionado,Escritório Aberto,4.039
+2025-09-13 16:00:00,Ar Condicionado,Escritório Aberto,2.764
+2025-09-13 17:00:00,Ar Condicionado,Escritório Aberto,2.083
+2025-09-13 18:00:00,Geladeira,Recepção,0.112
+2025-09-13 19:00:00,Ar Condicionado,Escritório Aberto,1.786
+2025-09-14 08:00:00,Ar Condicionado,Escritório Aberto,3.535
+2025-09-14 09:00:00,Iluminação,TI/Servidor,0.238
+2025-09-14 10:00:00,Iluminação,Copa,0.412
+2025-09-14 11:00:00,Ar Condicionado,Escritório Aberto,3.498
+2025-09-14 12:00:00,Servidor,Copa,1.202
+2025-09-14 13:00:00,Ar Condicionado,Escritório Aberto,3.096
+2025-09-14 14:00:00,Servidor,Recepção,0.956
+2025-09-14 15:00:00,Iluminação,Copa,0.4
+2025-09-14 16:00:00,Ar Condicionado,Escritório Aberto,1.565
+2025-09-14 17:00:00,Ar Condicionado,Escritório Aberto,1.625
+2025-09-14 18:00:00,Ar Condicionado,Escritório Aberto,3.457
+2025-09-14 19:00:00,Ar Condicionado,Escritório Aberto,3.489
+2025-09-15 08:00:00,Geladeira,Copa,0.19
+2025-09-15 09:00:00,Geladeira,Copa,0.124
+2025-09-15 10:00:00,Iluminação,Escritório Aberto,0.105
+2025-09-15 11:00:00,Projetor,Sala de Reunião,0.509
+2025-09-15 12:00:00,Ar Condicionado,Escritório Aberto,4.714
+2025-09-15 13:00:00,Iluminação,Escritório Aberto,0.454
+2025-09-15 14:00:00,Micro-ondas,Copa,0.63
+2025-09-15 15:00:00,Iluminação,Sala de Reunião,0.232
+2025-09-15 16:00:00,Impressora,Sala de Reunião,0.142
+2025-09-15 17:00:00,Ar Condicionado,Escritório Aberto,2.87
+2025-09-15 18:00:00,Servidor,TI/Servidor,1.256
+2025-09-15 19:00:00,Iluminação,Escritório Aberto,0.134
+2025-09-16 08:00:00,Servidor,TI/Servidor,1.292
+2025-09-16 09:00:00,Impressora,Sala de Reunião,0.159
+2025-09-16 10:00:00,Ar Condicionado,Escritório Aberto,2.444
+2025-09-16 11:00:00,Projetor,Sala de Reunião,0.547
+2025-09-16 12:00:00,Servidor,TI/Servidor,1.358
+2025-09-16 13:00:00,Projetor,Sala de Reunião,0.28
+2025-09-16 14:00:00,Iluminação,Escritório Aberto,0.262
+2025-09-16 15:00:00,Micro-ondas,Copa,1.057
+2025-09-16 16:00:00,Computadores,Sala de Reunião,0.795
+2025-09-16 17:00:00,Ar Condicionado,Recepção,2.404
+2025-09-16 18:00:00,Servidor,TI/Servidor,1.439
+2025-09-16 19:00:00,Iluminação,Recepção,0.327
+2025-09-17 08:00:00,Iluminação,Escritório Aberto,0.346
+2025-09-17 09:00:00,Projetor,Sala de Reunião,0.538
+2025-09-17 10:00:00,Computadores,Sala de Reunião,0.402
+2025-09-17 11:00:00,Micro-ondas,Copa,0.314
+2025-09-17 12:00:00,Ar Condicionado,Sala de Reunião,2.745
+2025-09-17 13:00:00,Computadores,Escritório Aberto,0.557
+2025-09-17 14:00:00,Computadores,Escritório Aberto,0.465
+2025-09-17 15:00:00,Projetor,Sala de Reunião,0.098
+2025-09-17 16:00:00,Servidor,TI/Servidor,1.458
+2025-09-17 17:00:00,Servidor,TI/Servidor,1.088
+2025-09-17 18:00:00,Iluminação,Sala de Reunião,0.144
+2025-09-17 19:00:00,Servidor,TI/Servidor,1.218
+2025-09-18 08:00:00,Servidor,TI/Servidor,1.416
+2025-09-18 09:00:00,Iluminação,Escritório Aberto,0.176
+2025-09-18 10:00:00,Micro-ondas,Copa,0.437
+2025-09-18 11:00:00,Computadores,Sala de Reunião,0.33
+2025-09-18 12:00:00,Servidor,TI/Servidor,1.233
+2025-09-18 13:00:00,Iluminação,Escritório Aberto,0.41
+2025-09-18 14:00:00,Servidor,TI/Servidor,1.581
+2025-09-18 15:00:00,Iluminação,Escritório Aberto,0.322
+2025-09-18 16:00:00,Cafeteira,Copa,0.233
+2025-09-18 17:00:00,Impressora,Sala de Reunião,0.086
+2025-09-18 18:00:00,Micro-ondas,Copa,0.196
+2025-09-18 19:00:00,Geladeira,Copa,0.18
+2025-09-19 08:00:00,Iluminação,Escritório Aberto,0.344
+2025-09-19 09:00:00,Impressora,Sala de Reunião,0.086
+2025-09-19 10:00:00,Micro-ondas,Copa,0.219
+2025-09-19 11:00:00,Projetor,Sala de Reunião,0.279
+2025-09-19 12:00:00,Micro-ondas,Copa,0.737
+2025-09-19 13:00:00,Geladeira,Copa,0.195
+2025-09-19 14:00:00,Computadores,Escritório Aberto,0.708
+2025-09-19 15:00:00,Geladeira,Copa,0.153
+2025-09-19 16:00:00,Iluminação,Escritório Aberto,0.278
+2025-09-19 17:00:00,Servidor,TI/Servidor,1.085
+2025-09-19 18:00:00,Micro-ondas,Copa,0.487
+2025-09-19 19:00:00,Servidor,TI/Servidor,0.893
+2025-09-20 08:00:00,Servidor,TI/Servidor,0.837
+2025-09-20 09:00:00,Iluminação,Recepção,0.114
+2025-09-20 10:00:00,Ar Condicionado,Escritório Aberto,3.253
+2025-09-20 11:00:00,Servidor,Copa,1.363
+2025-09-20 12:00:00,Geladeira,Copa,0.137
+2025-09-20 13:00:00,Servidor,Copa,0.878
+2025-09-20 14:00:00,Servidor,TI/Servidor,1.193
+2025-09-20 15:00:00,Ar Condicionado,Escritório Aberto,2.575
+2025-09-20 16:00:00,Iluminação,Copa,0.295
+2025-09-20 17:00:00,Ar Condicionado,Escritório Aberto,2.678
+2025-09-20 18:00:00,Iluminação,Recepção,0.322
+2025-09-20 19:00:00,Iluminação,Recepção,0.116
+2025-09-21 08:00:00,Servidor,Copa,1.1
+2025-09-21 09:00:00,Iluminação,TI/Servidor,0.319
+2025-09-21 10:00:00,Ar Condicionado,Escritório Aberto,2.408
+2025-09-21 11:00:00,Geladeira,Copa,0.183
+2025-09-21 12:00:00,Ar Condicionado,Escritório Aberto,3.056
+2025-09-21 13:00:00,Geladeira,Recepção,0.088
+2025-09-21 14:00:00,Ar Condicionado,Escritório Aberto,2.901
+2025-09-21 15:00:00,Iluminação,Recepção,0.406
+2025-09-21 16:00:00,Iluminação,Copa,0.352
+2025-09-21 17:00:00,Ar Condicionado,Escritório Aberto,2.744
+2025-09-21 18:00:00,Servidor,TI/Servidor,1.167
+2025-09-21 19:00:00,Ar Condicionado,Escritório Aberto,2.509
+2025-09-22 08:00:00,Geladeira,Copa,0.193
+2025-09-22 09:00:00,Micro-ondas,Copa,0.654
+2025-09-22 10:00:00,Servidor,TI/Servidor,1.524
+2025-09-22 11:00:00,Servidor,TI/Servidor,0.957
+2025-09-22 12:00:00,Micro-ondas,Copa,0.161
+2025-09-22 13:00:00,Servidor,TI/Servidor,0.815
+2025-09-22 14:00:00,Micro-ondas,Copa,0.222
+2025-09-22 15:00:00,Impressora,Sala de Reunião,0.066
+2025-09-22 16:00:00,Ar Condicionado,Escritório Aberto,3.412
+2025-09-22 17:00:00,Computadores,Escritório Aberto,0.617
+2025-09-22 18:00:00,Impressora,Sala de Reunião,0.068
+2025-09-22 19:00:00,Servidor,TI/Servidor,1.357
+2025-09-23 08:00:00,Geladeira,Copa,0.155
+2025-09-23 09:00:00,Servidor,TI/Servidor,1.502
+2025-09-23 10:00:00,Projetor,Sala de Reunião,0.343
+2025-09-23 11:00:00,Projetor,Sala de Reunião,0.162
+2025-09-23 12:00:00,Ar Condicionado,Recepção,3.878
+2025-09-23 13:00:00,Computadores,Sala de Reunião,0.817
+2025-09-23 14:00:00,Servidor,TI/Servidor,1.098
+2025-09-23 15:00:00,Iluminação,Sala de Reunião,0.428
+2025-09-23 16:00:00,Computadores,Escritório Aberto,0.875
+2025-09-23 17:00:00,Computadores,Sala de Reunião,0.443
+2025-09-23 18:00:00,Iluminação,Escritório Aberto,0.363
+2025-09-23 19:00:00,Geladeira,Copa,0.171
+2025-09-24 08:00:00,Iluminação,Escritório Aberto,0.136
+2025-09-24 09:00:00,Iluminação,Sala de Reunião,0.416
+2025-09-24 10:00:00,Micro-ondas,Copa,0.512
+2025-09-24 11:00:00,Computadores,Escritório Aberto,0.52
+2025-09-24 12:00:00,Computadores,Escritório Aberto,0.448
+2025-09-24 13:00:00,Computadores,Recepção,0.708
+2025-09-24 14:00:00,Impressora,Sala de Reunião,0.146
+2025-09-24 15:00:00,Servidor,TI/Servidor,1.56
+2025-09-24 16:00:00,Micro-ondas,Copa,0.52
+2025-09-24 17:00:00,Ar Condicionado,Escritório Aberto,2.276
+2025-09-24 18:00:00,Micro-ondas,Copa,0.448
+2025-09-24 19:00:00,Servidor,TI/Servidor,1.338
+2025-09-25 08:00:00,Geladeira,Copa,0.17
+2025-09-25 09:00:00,Micro-ondas,Copa,0.697
+2025-09-25 10:00:00,Geladeira,Copa,0.091
+2025-09-25 11:00:00,Iluminação,Escritório Aberto,0.291
+2025-09-25 12:00:00,Computadores,Escritório Aberto,0.588
+2025-09-25 13:00:00,Iluminação,Sala de Reunião,0.474
+2025-09-25 14:00:00,Computadores,Escritório Aberto,0.331
+2025-09-25 15:00:00,Computadores,Escritório Aberto,0.732
+2025-09-25 16:00:00,Geladeira,Copa,0.092
+2025-09-25 17:00:00,Ar Condicionado,Escritório Aberto,1.402
+2025-09-25 18:00:00,Impressora,Sala de Reunião,0.118
+2025-09-25 19:00:00,Geladeira,Copa,0.179
+2025-09-26 08:00:00,Servidor,TI/Servidor,1.365
+2025-09-26 09:00:00,Ar Condicionado,Escritório Aberto,1.395
+2025-09-26 10:00:00,Ar Condicionado,Escritório Aberto,1.404
+2025-09-26 11:00:00,Iluminação,Escritório Aberto,0.518
+2025-09-26 12:00:00,Micro-ondas,Copa,0.419
+2025-09-26 13:00:00,Micro-ondas,Copa,1.24
+2025-09-26 14:00:00,Iluminação,Escritório Aberto,0.423
+2025-09-26 15:00:00,Ar Condicionado,Escritório Aberto,1.797
+2025-09-26 16:00:00,Cafeteira,Copa,0.201
+2025-09-26 17:00:00,Geladeira,Copa,0.189
+2025-09-26 18:00:00,Micro-ondas,Copa,0.317
+2025-09-26 19:00:00,Iluminação,Recepção,0.104
+2025-09-27 08:00:00,Ar Condicionado,Escritório Aberto,2.325
+2025-09-27 09:00:00,Ar Condicionado,Escritório Aberto,1.335
+2025-09-27 10:00:00,Ar Condicionado,Escritório Aberto,1.485
+2025-09-27 11:00:00,Ar Condicionado,Escritório Aberto,1.845
+2025-09-27 12:00:00,Iluminação,Recepção,0.442
+2025-09-27 13:00:00,Servidor,TI/Servidor,1.57
+2025-09-27 14:00:00,Ar Condicionado,Escritório Aberto,2.385
+2025-09-27 15:00:00,Iluminação,Copa,0.451
+2025-09-27 16:00:00,Ar Condicionado,Escritório Aberto,3.7
+2025-09-27 17:00:00,Servidor,Recepção,1.576
+2025-09-27 18:00:00,Servidor,Copa,0.835
+2025-09-27 19:00:00,Servidor,TI/Servidor,1.513
+2025-09-28 08:00:00,Geladeira,Recepção,0.143
+2025-09-28 09:00:00,Iluminação,Recepção,0.448
+2025-09-28 10:00:00,Ar Condicionado,Escritório Aberto,1.377
+2025-09-28 11:00:00,Iluminação,Copa,0.394
+2025-09-28 12:00:00,Iluminação,Recepção,0.351
+2025-09-28 13:00:00,Ar Condicionado,Escritório Aberto,3.405
+2025-09-28 14:00:00,Servidor,Recepção,1.302
+2025-09-28 15:00:00,Servidor,Recepção,1.267
+2025-09-28 16:00:00,Servidor,Recepção,1.521
+2025-09-28 17:00:00,Servidor,Copa,0.836
+2025-09-28 18:00:00,Servidor,Copa,1.025
+2025-09-28 19:00:00,Ar Condicionado,Escritório Aberto,3.481
+2025-09-29 08:00:00,Iluminação,Sala de Reunião,0.412
+2025-09-29 09:00:00,Cafeteira,Copa,0.195
+2025-09-29 10:00:00,Servidor,TI/Servidor,1.022
+2025-09-29 11:00:00,Computadores,Escritório Aberto,0.398
+2025-09-29 12:00:00,Computadores,Sala de Reunião,0.501
+2025-09-29 13:00:00,Iluminação,Recepção,0.171
+2025-09-29 14:00:00,Servidor,TI/Servidor,1.589
+2025-09-29 15:00:00,Ar Condicionado,Recepção,3.482
+2025-09-29 16:00:00,Iluminação,Escritório Aberto,0.27
+2025-09-29 17:00:00,Geladeira,Copa,0.162
+2025-09-29 18:00:00,Computadores,Escritório Aberto,0.323
+2025-09-29 19:00:00,Servidor,TI/Servidor,1.529
+2025-09-30 08:00:00,Iluminação,Escritório Aberto,0.388
+2025-09-30 09:00:00,Computadores,Escritório Aberto,0.677
+2025-09-30 10:00:00,Iluminação,Escritório Aberto,0.354
+2025-09-30 11:00:00,Servidor,TI/Servidor,1.291
+2025-09-30 12:00:00,Impressora,Sala de Reunião,0.118
+2025-09-30 13:00:00,Iluminação,Escritório Aberto,0.429
+2025-09-30 14:00:00,Computadores,Escritório Aberto,0.305
+2025-09-30 15:00:00,Iluminação,Escritório Aberto,0.517
+2025-09-30 16:00:00,Micro-ondas,Copa,0.249
+2025-09-30 17:00:00,Ar Condicionado,Escritório Aberto,2.114
+2025-09-30 18:00:00,Computadores,Escritório Aberto,0.686
+2025-09-30 19:00:00,Geladeira,Copa,0.181
+2025-10-01 08:00:00,Geladeira,Copa,0.181
+2025-10-01 09:00:00,Computadores,Escritório Aberto,0.461
+2025-10-01 10:00:00,Computadores,Recepção,0.437
+2025-10-01 11:00:00,Impressora,Sala de Reunião,0.065
+2025-10-01 12:00:00,Computadores,Escritório Aberto,0.827
+2025-10-01 13:00:00,Iluminação,Sala de Reunião,0.607
+2025-10-01 14:00:00,Iluminação,Sala de Reunião,0.377
+2025-10-01 15:00:00,Cafeteira,Copa,0.477
+2025-10-01 16:00:00,Iluminação,Sala de Reunião,0.221
+2025-10-01 17:00:00,Iluminação,Escritório Aberto,0.145
+2025-10-01 18:00:00,Micro-ondas,Copa,1.1
+2025-10-01 19:00:00,Iluminação,Sala de Reunião,0.18
+2025-10-02 08:00:00,Servidor,TI/Servidor,1.337
+2025-10-02 09:00:00,Iluminação,Escritório Aberto,0.316
+2025-10-02 10:00:00,Ar Condicionado,Escritório Aberto,2.06
+2025-10-02 11:00:00,Iluminação,Recepção,0.175
+2025-10-02 12:00:00,Impressora,Sala de Reunião,0.186
+2025-10-02 13:00:00,Ar Condicionado,Recepção,3.197
+2025-10-02 14:00:00,Computadores,Recepção,0.607
+2025-10-02 15:00:00,Impressora,Sala de Reunião,0.162
+2025-10-02 16:00:00,Computadores,Escritório Aberto,0.329
+2025-10-02 17:00:00,Ar Condicionado,Recepção,3.012
+2025-10-02 18:00:00,Computadores,Sala de Reunião,0.529
+2025-10-02 19:00:00,Servidor,TI/Servidor,1.363
+2025-10-03 08:00:00,Servidor,TI/Servidor,0.97
+2025-10-03 09:00:00,Ar Condicionado,Sala de Reunião,1.527
+2025-10-03 10:00:00,Ar Condicionado,Escritório Aberto,1.235
+2025-10-03 11:00:00,Impressora,Sala de Reunião,0.093
+2025-10-03 12:00:00,Cafeteira,Copa,0.168
+2025-10-03 13:00:00,Micro-ondas,Copa,0.96
+2025-10-03 14:00:00,Servidor,TI/Servidor,1.211
+2025-10-03 15:00:00,Iluminação,Escritório Aberto,0.438
+2025-10-03 16:00:00,Computadores,Escritório Aberto,0.694
+2025-10-03 17:00:00,Servidor,TI/Servidor,1.56
+2025-10-03 18:00:00,Cafeteira,Copa,0.142
+2025-10-03 19:00:00,Geladeira,Copa,0.139
+2025-10-04 08:00:00,Ar Condicionado,Escritório Aberto,1.82
+2025-10-04 09:00:00,Geladeira,Recepção,0.135
+2025-10-04 10:00:00,Servidor,Copa,1.584
+2025-10-04 11:00:00,Ar Condicionado,Escritório Aberto,2.736
+2025-10-04 12:00:00,Ar Condicionado,Escritório Aberto,3.052
+2025-10-04 13:00:00,Geladeira,Recepção,0.089
+2025-10-04 14:00:00,Iluminação,Copa,0.158
+2025-10-04 15:00:00,Geladeira,Recepção,0.098
+2025-10-04 16:00:00,Ar Condicionado,Escritório Aberto,1.905
+2025-10-04 17:00:00,Ar Condicionado,Escritório Aberto,1.637
+2025-10-04 18:00:00,Geladeira,Copa,0.121
+2025-10-04 19:00:00,Ar Condicionado,Escritório Aberto,3.352
+2025-10-05 08:00:00,Ar Condicionado,Escritório Aberto,2.338
+2025-10-05 09:00:00,Iluminação,Copa,0.334
+2025-10-05 10:00:00,Geladeira,TI/Servidor,0.101
+2025-10-05 11:00:00,Ar Condicionado,Escritório Aberto,1.765
+2025-10-05 12:00:00,Ar Condicionado,Escritório Aberto,1.82
+2025-10-05 13:00:00,Ar Condicionado,Escritório Aberto,1.749
+2025-10-05 14:00:00,Ar Condicionado,Escritório Aberto,1.77
+2025-10-05 15:00:00,Ar Condicionado,Escritório Aberto,1.965
+2025-10-05 16:00:00,Ar Condicionado,Escritório Aberto,3.027
+2025-10-05 17:00:00,Iluminação,Copa,0.114
+2025-10-05 18:00:00,Servidor,TI/Servidor,1.44
+2025-10-05 19:00:00,Ar Condicionado,Escritório Aberto,2.707
+2025-10-06 08:00:00,Geladeira,Copa,0.09
+2025-10-06 09:00:00,Iluminação,Escritório Aberto,0.406
+2025-10-06 10:00:00,Iluminação,Escritório Aberto,0.422
+2025-10-06 11:00:00,Computadores,Escritório Aberto,0.314
+2025-10-06 12:00:00,Servidor,TI/Servidor,1.445
+2025-10-06 13:00:00,Micro-ondas,Copa,0.778
+2025-10-06 14:00:00,Ar Condicionado,Escritório Aberto,1.977
+2025-10-06 15:00:00,Geladeira,Copa,0.138
+2025-10-06 16:00:00,Servidor,TI/Servidor,1.295
+2025-10-06 17:00:00,Impressora,Sala de Reunião,0.091
+2025-10-06 18:00:00,Micro-ondas,Copa,0.73
+2025-10-06 19:00:00,Geladeira,Copa,0.11
+2025-10-07 08:00:00,Iluminação,Sala de Reunião,0.35
+2025-10-07 09:00:00,Ar Condicionado,Escritório Aberto,3.348
+2025-10-07 10:00:00,Computadores,Escritório Aberto,0.48
+2025-10-07 11:00:00,Cafeteira,Copa,0.17
+2025-10-07 12:00:00,Servidor,TI/Servidor,1.158
+2025-10-07 13:00:00,Cafeteira,Copa,0.181
+2025-10-07 14:00:00,Computadores,Escritório Aberto,0.432
+2025-10-07 15:00:00,Ar Condicionado,Escritório Aberto,1.431
+2025-10-07 16:00:00,Computadores,Escritório Aberto,0.396
+2025-10-07 17:00:00,Geladeira,Copa,0.094
+2025-10-07 18:00:00,Computadores,Sala de Reunião,0.651
+2025-10-07 19:00:00,Iluminação,Escritório Aberto,0.308
+2025-10-08 08:00:00,Servidor,TI/Servidor,1.343
+2025-10-08 09:00:00,Iluminação,Escritório Aberto,0.376
+2025-10-08 10:00:00,Micro-ondas,Copa,0.56
+2025-10-08 11:00:00,Servidor,TI/Servidor,1.23
+2025-10-08 12:00:00,Ar Condicionado,Recepção,3.322
+2025-10-08 13:00:00,Computadores,Escritório Aberto,0.483
+2025-10-08 14:00:00,Computadores,Sala de Reunião,0.438
+2025-10-08 15:00:00,Computadores,Escritório Aberto,0.66
+2025-10-08 16:00:00,Ar Condicionado,Escritório Aberto,2.765
+2025-10-08 17:00:00,Ar Condicionado,Escritório Aberto,2.654
+2025-10-08 18:00:00,Servidor,TI/Servidor,0.99
+2025-10-08 19:00:00,Servidor,TI/Servidor,0.881
+2025-10-09 08:00:00,Iluminação,Escritório Aberto,0.154
+2025-10-09 09:00:00,Geladeira,Copa,0.11
+2025-10-09 10:00:00,Servidor,TI/Servidor,0.929
+2025-10-09 11:00:00,Micro-ondas,Copa,0.239
+2025-10-09 12:00:00,Ar Condicionado,Escritório Aberto,2.132
+2025-10-09 13:00:00,Iluminação,Sala de Reunião,0.155
+2025-10-09 14:00:00,Ar Condicionado,Recepção,2.938
+2025-10-09 15:00:00,Geladeira,Copa,0.093
+2025-10-09 16:00:00,Ar Condicionado,Recepção,2.889
+2025-10-09 17:00:00,Iluminação,Sala de Reunião,0.403
+2025-10-09 18:00:00,Computadores,Escritório Aberto,0.618
+2025-10-09 19:00:00,Servidor,TI/Servidor,1.006
+2025-10-10 08:00:00,Iluminação,Escritório Aberto,0.16
+2025-10-10 09:00:00,Ar Condicionado,Escritório Aberto,2.805
+2025-10-10 10:00:00,Impressora,Sala de Reunião,0.265
+2025-10-10 11:00:00,Ar Condicionado,Escritório Aberto,2.916
+2025-10-10 12:00:00,Micro-ondas,Copa,0.795
+2025-10-10 13:00:00,Iluminação,Sala de Reunião,0.251
+2025-10-10 14:00:00,Iluminação,Escritório Aberto,0.312
+2025-10-10 15:00:00,Micro-ondas,Copa,0.334
+2025-10-10 16:00:00,Impressora,Sala de Reunião,0.122
+2025-10-10 17:00:00,Servidor,TI/Servidor,0.923
+2025-10-10 18:00:00,Computadores,Escritório Aberto,0.467
+2025-10-10 19:00:00,Servidor,TI/Servidor,1.226
+2025-10-11 08:00:00,Iluminação,TI/Servidor,0.118
+2025-10-11 09:00:00,Servidor,Recepção,1.069
+2025-10-11 10:00:00,Geladeira,Copa,0.096
+2025-10-11 11:00:00,Ar Condicionado,Escritório Aberto,1.821
+2025-10-11 12:00:00,Servidor,Recepção,1.058
+2025-10-11 13:00:00,Ar Condicionado,Escritório Aberto,3.541
+2025-10-11 14:00:00,Servidor,TI/Servidor,1.345
+2025-10-11 15:00:00,Iluminação,Recepção,0.45
+2025-10-11 16:00:00,Geladeira,Recepção,0.137
+2025-10-11 17:00:00,Iluminação,TI/Servidor,0.244
+2025-10-11 18:00:00,Servidor,Recepção,1.079
+2025-10-11 19:00:00,Servidor,Recepção,1.544
+2025-10-12 08:00:00,Servidor,Copa,1.464
+2025-10-12 09:00:00,Geladeira,TI/Servidor,0.196
+2025-10-12 10:00:00,Servidor,TI/Servidor,0.899
+2025-10-12 11:00:00,Servidor,Copa,1.385
+2025-10-12 12:00:00,Ar Condicionado,Escritório Aberto,3.812
+2025-10-12 13:00:00,Ar Condicionado,Escritório Aberto,1.73
+2025-10-12 14:00:00,Iluminação,TI/Servidor,0.392
+2025-10-12 15:00:00,Iluminação,Copa,0.192
+2025-10-12 16:00:00,Servidor,Copa,0.961
+2025-10-12 17:00:00,Ar Condicionado,Escritório Aberto,1.593
+2025-10-12 18:00:00,Ar Condicionado,Escritório Aberto,1.594
+2025-10-12 19:00:00,Servidor,Recepção,1.452
+2025-10-13 08:00:00,Geladeira,Copa,0.16
+2025-10-13 09:00:00,Ar Condicionado,Recepção,2.455
+2025-10-13 10:00:00,Micro-ondas,Copa,0.609
+2025-10-13 11:00:00,Ar Condicionado,Escritório Aberto,2.774
+2025-10-13 12:00:00,Iluminação,Escritório Aberto,0.295
+2025-10-13 13:00:00,Iluminação,Escritório Aberto,0.299
+2025-10-13 14:00:00,Computadores,Escritório Aberto,0.704
+2025-10-13 15:00:00,Iluminação,Escritório Aberto,0.239
+2025-10-13 16:00:00,Micro-ondas,Copa,0.387
+2025-10-13 17:00:00,Ar Condicionado,Sala de Reunião,3.376
+2025-10-13 18:00:00,Computadores,Sala de Reunião,0.531
+2025-10-13 19:00:00,Servidor,TI/Servidor,0.894
+2025-10-14 08:00:00,Geladeira,Copa,0.193
+2025-10-14 09:00:00,Ar Condicionado,Escritório Aberto,2.706
+2025-10-14 10:00:00,Iluminação,Escritório Aberto,0.217
+2025-10-14 11:00:00,Ar Condicionado,Sala de Reunião,1.976
+2025-10-14 12:00:00,Projetor,Sala de Reunião,0.409
+2025-10-14 13:00:00,Ar Condicionado,Escritório Aberto,4.304
+2025-10-14 14:00:00,Computadores,Escritório Aberto,0.364
+2025-10-14 15:00:00,Geladeira,Copa,0.11
+2025-10-14 16:00:00,Computadores,Escritório Aberto,0.62
+2025-10-14 17:00:00,Servidor,TI/Servidor,1.256
+2025-10-14 18:00:00,Iluminação,Escritório Aberto,0.367
+2025-10-14 19:00:00,Servidor,TI/Servidor,1.501
+2025-10-15 08:00:00,Iluminação,Escritório Aberto,0.22
+2025-10-15 09:00:00,Impressora,Sala de Reunião,0.202
+2025-10-15 10:00:00,Cafeteira,Copa,0.228
+2025-10-15 11:00:00,Cafeteira,Copa,0.282
+2025-10-15 12:00:00,Iluminação,Escritório Aberto,0.171
+2025-10-15 13:00:00,Micro-ondas,Copa,0.924
+2025-10-15 14:00:00,Ar Condicionado,Sala de Reunião,3.446
+2025-10-15 15:00:00,Computadores,Recepção,0.556
+2025-10-15 16:00:00,Iluminação,Sala de Reunião,0.244
+2025-10-15 17:00:00,Geladeira,Copa,0.189
+2025-10-15 18:00:00,Computadores,Sala de Reunião,0.513
+2025-10-15 19:00:00,Geladeira,Copa,0.128
+2025-10-16 08:00:00,Servidor,TI/Servidor,1.17
+2025-10-16 09:00:00,Geladeira,Copa,0.194
+2025-10-16 10:00:00,Micro-ondas,Copa,0.366
+2025-10-16 11:00:00,Servidor,TI/Servidor,1.205
+2025-10-16 12:00:00,Geladeira,Copa,0.153
+2025-10-16 13:00:00,Projetor,Sala de Reunião,0.195
+2025-10-16 14:00:00,Iluminação,Escritório Aberto,0.52
+2025-10-16 15:00:00,Impressora,Sala de Reunião,0.24
+2025-10-16 16:00:00,Ar Condicionado,Escritório Aberto,3.175
+2025-10-16 17:00:00,Micro-ondas,Copa,0.517
+2025-10-16 18:00:00,Ar Condicionado,Escritório Aberto,2.218
+2025-10-16 19:00:00,Servidor,TI/Servidor,1.389
+2025-10-17 08:00:00,Geladeira,Copa,0.192
+2025-10-17 09:00:00,Computadores,Escritório Aberto,0.667
+2025-10-17 10:00:00,Ar Condicionado,Recepção,2.282
+2025-10-17 11:00:00,Cafeteira,Copa,0.196
+2025-10-17 12:00:00,Iluminação,Recepção,0.428
+2025-10-17 13:00:00,Servidor,TI/Servidor,1.537
+2025-10-17 14:00:00,Computadores,Escritório Aberto,0.773
+2025-10-17 15:00:00,Micro-ondas,Copa,0.484
+2025-10-17 16:00:00,Geladeira,Copa,0.087
+2025-10-17 17:00:00,Geladeira,Copa,0.12
+2025-10-17 18:00:00,Computadores,Sala de Reunião,0.611
+2025-10-17 19:00:00,Geladeira,Copa,0.081
+2025-10-18 08:00:00,Ar Condicionado,Escritório Aberto,2.0
+2025-10-18 09:00:00,Geladeira,TI/Servidor,0.128
+2025-10-18 10:00:00,Servidor,TI/Servidor,1.23
+2025-10-18 11:00:00,Iluminação,TI/Servidor,0.487
+2025-10-18 12:00:00,Iluminação,TI/Servidor,0.281
+2025-10-18 13:00:00,Ar Condicionado,Escritório Aberto,2.554
+2025-10-18 14:00:00,Ar Condicionado,Escritório Aberto,2.497
+2025-10-18 15:00:00,Ar Condicionado,Escritório Aberto,1.947
+2025-10-18 16:00:00,Iluminação,TI/Servidor,0.327
+2025-10-18 17:00:00,Geladeira,Copa,0.123
+2025-10-18 18:00:00,Ar Condicionado,Escritório Aberto,2.593
+2025-10-18 19:00:00,Iluminação,TI/Servidor,0.321
+2025-10-19 08:00:00,Geladeira,Recepção,0.082
+2025-10-19 09:00:00,Ar Condicionado,Escritório Aberto,2.792
+2025-10-19 10:00:00,Ar Condicionado,Escritório Aberto,1.627
+2025-10-19 11:00:00,Geladeira,Recepção,0.195
+2025-10-19 12:00:00,Ar Condicionado,Escritório Aberto,1.828
+2025-10-19 13:00:00,Servidor,TI/Servidor,0.868
+2025-10-19 14:00:00,Ar Condicionado,Escritório Aberto,4.313
+2025-10-19 15:00:00,Iluminação,Copa,0.33
+2025-10-19 16:00:00,Iluminação,Copa,0.403
+2025-10-19 17:00:00,Ar Condicionado,Escritório Aberto,3.355
+2025-10-19 18:00:00,Geladeira,TI/Servidor,0.105
+2025-10-19 19:00:00,Servidor,Recepção,0.953
+2025-10-20 08:00:00,Geladeira,Copa,0.084
+2025-10-20 09:00:00,Computadores,Escritório Aberto,0.462
+2025-10-20 10:00:00,Cafeteira,Copa,0.258
+2025-10-20 11:00:00,Ar Condicionado,Sala de Reunião,3.631
+2025-10-20 12:00:00,Impressora,Sala de Reunião,0.167
+2025-10-20 13:00:00,Computadores,Escritório Aberto,0.524
+2025-10-20 14:00:00,Iluminação,Escritório Aberto,0.17
+2025-10-20 15:00:00,Servidor,TI/Servidor,1.489
+2025-10-20 16:00:00,Computadores,Sala de Reunião,0.785
+2025-10-20 17:00:00,Geladeira,Copa,0.112
+2025-10-20 18:00:00,Impressora,Sala de Reunião,0.129
+2025-10-20 19:00:00,Servidor,TI/Servidor,0.82
+2025-10-21 08:00:00,Iluminação,Recepção,0.155
+2025-10-21 09:00:00,Micro-ondas,Copa,0.616
+2025-10-21 10:00:00,Servidor,TI/Servidor,0.822
+2025-10-21 11:00:00,Impressora,Sala de Reunião,0.094
+2025-10-21 12:00:00,Servidor,TI/Servidor,1.338
+2025-10-21 13:00:00,Iluminação,Sala de Reunião,0.116
+2025-10-21 14:00:00,Micro-ondas,Copa,0.816
+2025-10-21 15:00:00,Iluminação,Recepção,0.368
+2025-10-21 16:00:00,Cafeteira,Copa,0.099
+2025-10-21 17:00:00,Servidor,TI/Servidor,1.378
+2025-10-21 18:00:00,Ar Condicionado,Recepção,3.254
+2025-10-21 19:00:00,Iluminação,Escritório Aberto,0.391
+2025-10-22 08:00:00,Iluminação,Escritório Aberto,0.239
+2025-10-22 09:00:00,Ar Condicionado,Escritório Aberto,2.803
+2025-10-22 10:00:00,Ar Condicionado,Escritório Aberto,1.692
+2025-10-22 11:00:00,Ar Condicionado,Escritório Aberto,2.511
+2025-10-22 12:00:00,Computadores,Escritório Aberto,0.275
+2025-10-22 13:00:00,Impressora,Sala de Reunião,0.056
+2025-10-22 14:00:00,Iluminação,Sala de Reunião,0.2
+2025-10-22 15:00:00,Micro-ondas,Copa,0.675
+2025-10-22 16:00:00,Geladeira,Copa,0.178
+2025-10-22 17:00:00,Iluminação,Sala de Reunião,0.22
+2025-10-22 18:00:00,Ar Condicionado,Recepção,1.823
+2025-10-22 19:00:00,Servidor,TI/Servidor,1.104
+2025-10-23 08:00:00,Servidor,TI/Servidor,1.272
+2025-10-23 09:00:00,Micro-ondas,Copa,0.326
+2025-10-23 10:00:00,Projetor,Sala de Reunião,0.225
+2025-10-23 11:00:00,Ar Condicionado,Sala de Reunião,2.558
+2025-10-23 12:00:00,Ar Condicionado,Escritório Aberto,4.446
+2025-10-23 13:00:00,Geladeira,Copa,0.097
+2025-10-23 14:00:00,Impressora,Sala de Reunião,0.167
+2025-10-23 15:00:00,Cafeteira,Copa,0.311
+2025-10-23 16:00:00,Computadores,Sala de Reunião,0.466
+2025-10-23 17:00:00,Ar Condicionado,Sala de Reunião,1.845
+2025-10-23 18:00:00,Servidor,TI/Servidor,1.233
+2025-10-23 19:00:00,Geladeira,Copa,0.156
+2025-10-24 08:00:00,Geladeira,Copa,0.111
+2025-10-24 09:00:00,Micro-ondas,Copa,0.265
+2025-10-24 10:00:00,Computadores,Escritório Aberto,0.693
+2025-10-24 11:00:00,Iluminação,Escritório Aberto,0.313
+2025-10-24 12:00:00,Computadores,Escritório Aberto,0.393
+2025-10-24 13:00:00,Computadores,Sala de Reunião,0.718
+2025-10-24 14:00:00,Computadores,Escritório Aberto,0.577
+2025-10-24 15:00:00,Projetor,Sala de Reunião,0.274
+2025-10-24 16:00:00,Servidor,TI/Servidor,1.464
+2025-10-24 17:00:00,Ar Condicionado,Escritório Aberto,1.695
+2025-10-24 18:00:00,Micro-ondas,Copa,0.199
+2025-10-24 19:00:00,Geladeira,Copa,0.188
+2025-10-25 08:00:00,Ar Condicionado,Escritório Aberto,3.297
+2025-10-25 09:00:00,Iluminação,TI/Servidor,0.309
+2025-10-25 10:00:00,Servidor,TI/Servidor,1.28
+2025-10-25 11:00:00,Servidor,Copa,1.332
+2025-10-25 12:00:00,Ar Condicionado,Escritório Aberto,2.147
+2025-10-25 13:00:00,Ar Condicionado,Escritório Aberto,2.569
+2025-10-25 14:00:00,Ar Condicionado,Escritório Aberto,2.602
+2025-10-25 15:00:00,Ar Condicionado,Escritório Aberto,2.033
+2025-10-25 16:00:00,Geladeira,Copa,0.09
+2025-10-25 17:00:00,Geladeira,TI/Servidor,0.152
+2025-10-25 18:00:00,Servidor,Recepção,0.996
+2025-10-25 19:00:00,Iluminação,Recepção,0.236
+2025-10-26 08:00:00,Iluminação,Copa,0.201
+2025-10-26 09:00:00,Iluminação,Copa,0.224
+2025-10-26 10:00:00,Ar Condicionado,Escritório Aberto,2.926
+2025-10-26 11:00:00,Iluminação,TI/Servidor,0.249
+2025-10-26 12:00:00,Ar Condicionado,Escritório Aberto,2.926
+2025-10-26 13:00:00,Ar Condicionado,Escritório Aberto,4.379
+2025-10-26 14:00:00,Servidor,TI/Servidor,0.972
+2025-10-26 15:00:00,Ar Condicionado,Escritório Aberto,1.439
+2025-10-26 16:00:00,Iluminação,Copa,0.328
+2025-10-26 17:00:00,Geladeira,Copa,0.14
+2025-10-26 18:00:00,Geladeira,Recepção,0.152
+2025-10-26 19:00:00,Geladeira,TI/Servidor,0.12
+2025-10-27 08:00:00,Servidor,TI/Servidor,1.417
+2025-10-27 09:00:00,Computadores,Escritório Aberto,0.298
+2025-10-27 10:00:00,Iluminação,Escritório Aberto,0.126
+2025-10-27 11:00:00,Cafeteira,Copa,0.356
+2025-10-27 12:00:00,Servidor,TI/Servidor,1.351
+2025-10-27 13:00:00,Ar Condicionado,Sala de Reunião,2.522
+2025-10-27 14:00:00,Ar Condicionado,Escritório Aberto,4.083
+2025-10-27 15:00:00,Computadores,Escritório Aberto,0.637
+2025-10-27 16:00:00,Geladeira,Copa,0.151
+2025-10-27 17:00:00,Computadores,Escritório Aberto,0.412
+2025-10-27 18:00:00,Computadores,Escritório Aberto,0.291
+2025-10-27 19:00:00,Iluminação,Escritório Aberto,0.421
+2025-10-28 08:00:00,Geladeira,Copa,0.096
+2025-10-28 09:00:00,Impressora,Sala de Reunião,0.176
+2025-10-28 10:00:00,Iluminação,Escritório Aberto,0.165
+2025-10-28 11:00:00,Cafeteira,Copa,0.234
+2025-10-28 12:00:00,Iluminação,Recepção,0.46
+2025-10-28 13:00:00,Micro-ondas,Copa,0.856
+2025-10-28 14:00:00,Iluminação,Escritório Aberto,0.447
+2025-10-28 15:00:00,Computadores,Escritório Aberto,0.525
+2025-10-28 16:00:00,Ar Condicionado,Escritório Aberto,4.76
+2025-10-28 17:00:00,Iluminação,Escritório Aberto,0.114
+2025-10-28 18:00:00,Geladeira,Copa,0.165
+2025-10-28 19:00:00,Servidor,TI/Servidor,1.54
+2025-10-29 08:00:00,Iluminação,Escritório Aberto,0.163
+2025-10-29 09:00:00,Micro-ondas,Copa,0.572
+2025-10-29 10:00:00,Computadores,Escritório Aberto,0.265
+2025-10-29 11:00:00,Iluminação,Escritório Aberto,0.392
+2025-10-29 12:00:00,Computadores,Sala de Reunião,0.893
+2025-10-29 13:00:00,Iluminação,Escritório Aberto,0.513
+2025-10-29 14:00:00,Cafeteira,Copa,0.308
+2025-10-29 15:00:00,Cafeteira,Copa,0.178
+2025-10-29 16:00:00,Micro-ondas,Copa,0.179
+2025-10-29 17:00:00,Computadores,Escritório Aberto,0.354
+2025-10-29 18:00:00,Computadores,Escritório Aberto,0.304
+2025-10-29 19:00:00,Iluminação,Escritório Aberto,0.127
+2025-10-30 08:00:00,Servidor,TI/Servidor,1.357
+2025-10-30 09:00:00,Micro-ondas,Copa,0.386
+2025-10-30 10:00:00,Micro-ondas,Copa,0.175
+2025-10-30 11:00:00,Geladeira,Copa,0.145
+2025-10-30 12:00:00,Computadores,Escritório Aberto,0.694
+2025-10-30 13:00:00,Micro-ondas,Copa,0.607
+2025-10-30 14:00:00,Cafeteira,Copa,0.29
+2025-10-30 15:00:00,Ar Condicionado,Escritório Aberto,1.65
+2025-10-30 16:00:00,Iluminação,Escritório Aberto,0.141
+2025-10-30 17:00:00,Ar Condicionado,Sala de Reunião,2.469
+2025-10-30 18:00:00,Ar Condicionado,Recepção,3.454
+2025-10-30 19:00:00,Geladeira,Copa,0.176
