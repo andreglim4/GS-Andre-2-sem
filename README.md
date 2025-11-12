@@ -11,7 +11,7 @@ Este projeto propõe uma solução de eficiência energética para ambientes de 
 
 Analisar dados simulados de consumo de energia de um escritório comercial para identificar desperdícios e propor uma solução baseada em IoT (Internet das Coisas) para automação e controle, promovendo sustentabilidade e redução de custos.
 
-## A Solução (Opção A e B)
+## A Solução (Opção A)
 
 Nossa solução combina Análise de Dados (Opção A) com a simulação de um Dispositivo IoT (Opção B).
 
