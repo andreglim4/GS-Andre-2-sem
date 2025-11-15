@@ -65,7 +65,7 @@ Ganho Sustentável (Automação Preditiva)
 
 Promove práticas de sustentabilidade avançadas, essenciais para o futuro do trabalho. Sistemas de energia (AC, Iluminação) podem ser programados para ligar ou desligar baseados na previsão de necessidade e ocupação (utilizando o output do Classifier), e não apenas em horários fixos. Isso garante que a energia seja consumida apenas quando e onde é realmente necessária.
 
-🛠️ **Como Executar o Código**
+## Como Executar o Código
 
 O código pode ser executado através do arquivo analise_energia.py:
 
